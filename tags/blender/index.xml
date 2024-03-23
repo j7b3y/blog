@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blender on なねさんメモ</title>
+    <link>https://blog.j7b3y.com/tags/blender/</link>
+    <description>Recent content in Blender on なねさんメモ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2024 なね</copyright>
+    <lastBuildDate>Wed, 06 Jul 2022 19:00:39 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PC用アバターをQuest GoodにしてFallback Avatarにする</title>
+      <link>https://blog.j7b3y.com/posts/2022-07-06-avatar-quest-optimization/</link>
+      <pubDate>Wed, 06 Jul 2022 19:00:39 +0900</pubDate>
+      
+      <guid>https://blog.j7b3y.com/posts/2022-07-06-avatar-quest-optimization/</guid>
+      <description>前置き # 別のアバターをFallback対応したくなった時用に</description>
+      
+    </item>
+    
+  </channel>
+</rss>

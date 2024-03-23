@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on なねさんメモ</title>
+    <link>https://blog.j7b3y.com/tags/ai/</link>
+    <description>Recent content in AI on なねさんメモ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2024 なね</copyright>
+    <lastBuildDate>Fri, 06 Oct 2023 14:19:29 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intel ARCなWindows環境でStable Diffusion WebUI</title>
+      <link>https://blog.j7b3y.com/posts/2023-10-06-arc-sd-webui-windows/</link>
+      <pubDate>Fri, 06 Oct 2023 14:19:29 +0900</pubDate>
+      
+      <guid>https://blog.j7b3y.com/posts/2023-10-06-arc-sd-webui-windows/</guid>
+      <description>構成 # CPU:Core i5 12600K GPU:Intel ARC A770 16GB CPU内臓グラフィックは無効にしてありま</description>
+      
+    </item>
+    
+  </channel>
+</rss>
