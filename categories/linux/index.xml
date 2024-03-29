@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on なねさんメモ</title><link>https://blog.j7b3y.com/categories/linux/</link><description>Recent content in Linux on なねさんメモ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 なね</copyright><lastBuildDate>Wed, 10 Jan 2024 22:25:03 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/categories/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>HyperVにGPUを割り当てて優勝したかった</title><link>https://blog.j7b3y.com/posts/2024-01-10-hyperv-gpupv/</link><pubDate>Wed, 10 Jan 2024 22:25:03 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-01-10-hyperv-gpupv/</guid><description>構成 # Host:Windows 11 VM:Ubuntu22.04LTS GPU:Intel ARC A770 16GB kernelは6.5.0-14-gene</description></item><item><title>drm-xe-nextで遊ぶ</title><link>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</link><pubDate>Sat, 01 Jul 2023 23:01:13 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</guid><description>前置き # メイン環境をUbuntuにした際にdrm-xe-ne</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on なねさんメモ</title>
+    <link>https://blog.j7b3y.com/categories/linux/</link>
+    <description>Recent content in Linux on なねさんメモ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2024 なね</copyright>
+    <lastBuildDate>Wed, 10 Jan 2024 22:25:03 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HyperVにGPUを割り当てて優勝したかった</title>
+      <link>https://blog.j7b3y.com/posts/2024-01-10-hyperv-gpupv/</link>
+      <pubDate>Wed, 10 Jan 2024 22:25:03 +0900</pubDate>
+      
+      <guid>https://blog.j7b3y.com/posts/2024-01-10-hyperv-gpupv/</guid>
+      <description>構成 # Host:Windows 11 VM:Ubuntu22.04LTS GPU:Intel ARC A770 16GB kernelは6.5.0-14-gene</description>
+      
+    </item>
+    
+    <item>
+      <title>drm-xe-nextで遊ぶ</title>
+      <link>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</link>
+      <pubDate>Sat, 01 Jul 2023 23:01:13 +0900</pubDate>
+      
+      <guid>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</guid>
+      <description>前置き # メイン環境をUbuntuにした際にdrm-xe-ne</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Intel GPU on なねさんメモ</title><link>https://blog.j7b3y.com/tags/intel-gpu/</link><description>Recent content in Intel GPU on なねさんメモ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 なね</copyright><lastBuildDate>Sat, 01 Jul 2023 23:01:13 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/tags/intel-gpu/index.xml" rel="self" type="application/rss+xml"/><item><title>drm-xe-nextで遊ぶ</title><link>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</link><pubDate>Sat, 01 Jul 2023 23:01:13 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</guid><description>前置き # メイン環境をUbuntuにした際にdrm-xe-ne</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intel GPU on なねさんメモ</title>
+    <link>https://blog.j7b3y.com/tags/intel-gpu/</link>
+    <description>Recent content in Intel GPU on なねさんメモ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2024 なね</copyright>
+    <lastBuildDate>Sat, 01 Jul 2023 23:01:13 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/tags/intel-gpu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>drm-xe-nextで遊ぶ</title>
+      <link>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</link>
+      <pubDate>Sat, 01 Jul 2023 23:01:13 +0900</pubDate>
+      
+      <guid>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</guid>
+      <description>前置き # メイン環境をUbuntuにした際にdrm-xe-ne</description>
+      
+    </item>
+    
+  </channel>
+</rss>
