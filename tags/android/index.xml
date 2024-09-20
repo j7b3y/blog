@@ -1,1 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Android on なねさんメモ</title><link>https://blog.j7b3y.com/tags/android/</link><description>Recent content in Android on なねさんメモ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 なね</copyright><lastBuildDate>Fri, 30 Aug 2024 13:04:27 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/tags/android/index.xml" rel="self" type="application/rss+xml"/><item><title>自前ビルドのProjectBlaze List</title><link>https://blog.j7b3y.com/posts/2024-08-30projectblaze-ownbuild-list/</link><pubDate>Fri, 30 Aug 2024 13:04:27 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-08-30projectblaze-ownbuild-list/</guid><description>ProjectBlazeって？ # UIのカスタマイズやGame</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.j7b3y.com/posts/2024-08-30projectblaze-ownbuild-list/featured.webp"/></item><item><title>自分のAndroid環境について語る</title><link>https://blog.j7b3y.com/posts/2024-05-01-use-on-my-android/</link><pubDate>Wed, 01 May 2024 10:53:20 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-05-01-use-on-my-android/</guid><description>注意事項と前置き # あくまで自分か使用しているものを書いている</description></item><item><title>新しいルートソリューション、APatchのススメ</title><link>https://blog.j7b3y.com/posts/2024-01-12-android-root-apatch/</link><pubDate>Fri, 12 Jan 2024 16:46:11 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-01-12-android-root-apatch/</guid><description>前置き # あんまり詳しくないので細かいことはかけないのですが K</description></item><item><title>Zenfone8 Project Blaze</title><link>https://blog.j7b3y.com/posts/2022-09-10-projectblaze-sake/</link><pubDate>Sat, 10 Sep 2022 23:11:01 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2022-09-10-projectblaze-sake/</guid><description>追記 # Zenfone8の使用をやめたのとカスロム全般のモチベ</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.j7b3y.com/posts/2022-09-10-projectblaze-sake/featured.webp"/></item><item><title>EMUI11からダウングレードした端末が認識されなくなる問題</title><link>https://blog.j7b3y.com/posts/2022-03-17-emui-usb/</link><pubDate>Thu, 17 Mar 2022 17:51:56 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2022-03-17-emui-usb/</guid><description>前置き # XDAで知り合ったセルビア在住の方(以下セルビア人)</description></item><item><title>Huawei P30 (ELE-L29) のsystem領域を拡張した話 その1</title><link>https://blog.j7b3y.com/posts/2021-10-17-expanding-the-system-partition-of-p30/</link><pubDate>Sun, 17 Oct 2021 17:31:45 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2021-10-17-expanding-the-system-partition-of-p30/</guid><description>前置きと注意 # Huawei P30にlineageOS 18.1をインスト</description></item><item><title>Huawei P30にlineageOS 18.1をインストールした話</title><link>https://blog.j7b3y.com/posts/2021-10-11-installing-lineageos-on-huawei-p30/</link><pubDate>Mon, 11 Oct 2021 10:12:31 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2021-10-11-installing-lineageos-on-huawei-p30/</guid><description>前置き # 再起動する度に画面の明るさ自動調整が勝手にONになる</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Android on なねさんメモ</title><link>https://blog.j7b3y.com/tags/android/</link><description>Recent content in Android on なねさんメモ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 なね</copyright><lastBuildDate>Fri, 30 Aug 2024 13:04:27 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/tags/android/index.xml" rel="self" type="application/rss+xml"/><item><title>[Closed]自前ビルドのProjectBlaze List</title><link>https://blog.j7b3y.com/posts/2024-08-30-projectblaze-ownbuild-list/</link><pubDate>Fri, 30 Aug 2024 13:04:27 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-08-30-projectblaze-ownbuild-list/</guid><description>&lt;h2 class="relative group">お知らせ
+&lt;div id="%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>最適化具合やリポジトリの更新頻度を理由にProjectBlazeを卒業してcrdroidに移行することにしたので3.7-forkを最終ビルドとします。(3.8がEOLなのにキリが悪い)&lt;br>
+Ver.1.3の頃に出会ってから2年間、お世話になりました。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.j7b3y.com/posts/2024-08-30-projectblaze-ownbuild-list/featured.webp"/></item><item><title>自分のAndroid環境について語る</title><link>https://blog.j7b3y.com/posts/2024-05-01-use-on-my-android/</link><pubDate>Wed, 01 May 2024 10:53:20 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-05-01-use-on-my-android/</guid><description>&lt;h2 class="relative group">注意事項と前置き
+&lt;div id="%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85%E3%81%A8%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85%E3%81%A8%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>あくまで自分か使用しているものを書いているだけなので&lt;br>
+使用の判断は各個人におまかせします。不利益なことが起こっても責任は取れません。&lt;/p></description></item><item><title>新しいルートソリューション、APatchのススメ</title><link>https://blog.j7b3y.com/posts/2024-01-12-android-root-apatch/</link><pubDate>Fri, 12 Jan 2024 16:46:11 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-01-12-android-root-apatch/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>あんまり詳しくないので細かいことはかけないのですが&lt;/p></description></item><item><title>Zenfone8 Project Blaze</title><link>https://blog.j7b3y.com/posts/2022-09-10-projectblaze-sake/</link><pubDate>Sat, 10 Sep 2022 23:11:01 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2022-09-10-projectblaze-sake/</guid><description>&lt;h2 class="relative group">追記
+&lt;div id="%E8%BF%BD%E8%A8%98" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E8%BF%BD%E8%A8%98" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Zenfone8の使用をやめたのとカスロム全般のモチベが低迷してしまったので&lt;br>
+v2.10-DAWNで一旦区切りをつけようと思います。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.j7b3y.com/posts/2022-09-10-projectblaze-sake/featured.webp"/></item><item><title>EMUI11からダウングレードした端末が認識されなくなる問題</title><link>https://blog.j7b3y.com/posts/2022-03-17-emui-usb/</link><pubDate>Thu, 17 Mar 2022 17:51:56 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2022-03-17-emui-usb/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>XDAで知り合ったセルビア在住の方(以下セルビア人)とTelegramでお話した時のものを自分用にまとめたものです。&lt;/p></description></item><item><title>Huawei P30 (ELE-L29) のsystem領域を拡張した話 その1</title><link>https://blog.j7b3y.com/posts/2021-10-17-expanding-the-system-partition-of-p30/</link><pubDate>Sun, 17 Oct 2021 17:31:45 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2021-10-17-expanding-the-system-partition-of-p30/</guid><description>&lt;h2 class="relative group">前置きと注意
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D%E3%81%A8%E6%B3%A8%E6%84%8F" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D%E3%81%A8%E6%B3%A8%E6%84%8F" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="https://blog.j7b3y.com/posts/2021-10-11-installing-lineageos-on-huawei-p30/" >
+Huawei P30にlineageOS 18.1をインストールした話&lt;/a>の続きです。&lt;br>
+P30にGSIなカスタムROMをflashしようとしたところ&lt;br>
+system領域が小さい！と怒られて大敗北しました。&lt;br>
+今回はsystem領域の拡張に成功したのでメモ帳代わりにまとめることにしました。&lt;/p></description></item><item><title>Huawei P30にlineageOS 18.1をインストールした話</title><link>https://blog.j7b3y.com/posts/2021-10-11-installing-lineageos-on-huawei-p30/</link><pubDate>Mon, 11 Oct 2021 10:12:31 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2021-10-11-installing-lineageos-on-huawei-p30/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>再起動する度に画面の明るさ自動調整が勝手にONになるのが地味に面倒だなと感じたので、別にEMUIを使う理由もないということでカスタムROMを焼こうとなりました。&lt;/p></description></item></channel></rss>

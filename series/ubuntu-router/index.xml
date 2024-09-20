@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ubuntu Router on なねさんメモ</title><link>https://blog.j7b3y.com/series/ubuntu-router/</link><description>Recent content in Ubuntu Router on なねさんメモ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 なね</copyright><lastBuildDate>Sat, 03 Feb 2024 15:33:05 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/series/ubuntu-router/index.xml" rel="self" type="application/rss+xml"/><item><title>ubuntu serverをルーター化する2</title><link>https://blog.j7b3y.com/posts/2024-02-03-ubuntu-router-2/</link><pubDate>Sat, 03 Feb 2024 15:33:05 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-02-03-ubuntu-router-2/</guid><description>前置き # ubuntu serverをルーター化するの続き。 今日は日本酒盛</description></item><item><title>ubuntu serverをルーター化する</title><link>https://blog.j7b3y.com/posts/2024-01-30-ubuntu-router-1/</link><pubDate>Tue, 30 Jan 2024 23:35:24 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-01-30-ubuntu-router-1/</guid><description>前置き # 1.Openwrt用のExpressVPNクライアン</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ubuntu Router on なねさんメモ</title><link>https://blog.j7b3y.com/series/ubuntu-router/</link><description>Recent content in Ubuntu Router on なねさんメモ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 なね</copyright><lastBuildDate>Sat, 03 Feb 2024 15:33:05 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/series/ubuntu-router/index.xml" rel="self" type="application/rss+xml"/><item><title>ubuntu serverをルーター化する2</title><link>https://blog.j7b3y.com/posts/2024-02-03-ubuntu-router-2/</link><pubDate>Sat, 03 Feb 2024 15:33:05 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-02-03-ubuntu-router-2/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="https://blog.j7b3y.com/posts/2024-01-30-ubuntu-router-1/" >
+ubuntu serverをルーター化する&lt;/a>の続き。&lt;br>
+今日は日本酒盛ってません。&lt;/p></description></item><item><title>ubuntu serverをルーター化する</title><link>https://blog.j7b3y.com/posts/2024-01-30-ubuntu-router-1/</link><pubDate>Tue, 30 Jan 2024 23:35:24 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-01-30-ubuntu-router-1/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>1.Openwrt用のExpressVPNクライアントがない！&lt;br>
+2.11kでなんちゃってAircoveを爆誕させる&lt;br>
+3.性能限界で速度がそんなに出ない&lt;br>
+4.ubuntuをルーター運用してLinuxクライアントを入れればいいのでは&amp;hellip;？&lt;/p></description></item></channel></rss>
