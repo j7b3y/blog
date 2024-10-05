@@ -1,1 +1,162 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>なねさんメモ</title><link>https://blog.j7b3y.com/</link><description>Recent content on なねさんメモ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 なね</copyright><lastBuildDate>Mon, 23 Sep 2024 17:24:06 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/index.xml" rel="self" type="application/rss+xml"/><item><title>[Unofficial] Xiaomi12 Crdroid</title><link>https://blog.j7b3y.com/posts/2024-09-23-unofficial-cupid-crdroid/</link><pubDate>Mon, 23 Sep 2024 17:24:06 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-09-23-unofficial-cupid-crdroid/</guid><description>Link # cupid Features # Changes based on other DTs include Gapps Support MiuiCamera and ScreenOffUdfps ChangeLog # 2024-09-30 first release Known Bugs # VPN disconnects when installing or deleting</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.j7b3y.com/posts/2024-09-23-unofficial-cupid-crdroid/featured.webp"/></item><item><title>[Closed]自前ビルドのProjectBlaze List</title><link>https://blog.j7b3y.com/posts/2024-08-30-projectblaze-ownbuild-list/</link><pubDate>Fri, 30 Aug 2024 13:04:27 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-08-30-projectblaze-ownbuild-list/</guid><description>お知らせ # 最適化具合やリポジトリの更新頻度を理由にProje</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.j7b3y.com/posts/2024-08-30-projectblaze-ownbuild-list/featured.webp"/></item><item><title>ローカル内サービスの公開</title><link>https://blog.j7b3y.com/posts/2024-08-17-re-ubuntu-router-4/</link><pubDate>Sat, 17 Aug 2024 13:55:53 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-08-17-re-ubuntu-router-4/</guid><description>ローカル内で動かしているサービスをcloudflare tun</description></item><item><title>VPNの導入</title><link>https://blog.j7b3y.com/posts/2024-08-12-re-ubuntu-router-3/</link><pubDate>Mon, 12 Aug 2024 10:29:12 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-08-12-re-ubuntu-router-3/</guid><description>記事の書き直しの理由の7割がここ。 Tailscaleの導入 #</description></item><item><title>ルーター部分のセットアップ</title><link>https://blog.j7b3y.com/posts/2024-08-12-re-ubuntu-router-2/</link><pubDate>Mon, 12 Aug 2024 09:53:59 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-08-12-re-ubuntu-router-2/</guid><description>作業に取り掛かる前にsshのポートを変えたり鍵認証にしたりし</description></item><item><title>ルーターの概要</title><link>https://blog.j7b3y.com/posts/2024-08-12-re-ubuntu-router-1/</link><pubDate>Mon, 12 Aug 2024 08:49:39 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-08-12-re-ubuntu-router-1/</guid><description>なんの記事？ # ubuntu serverをルーター化するシリーズの書き直</description></item><item><title>自分のAndroid環境について語る</title><link>https://blog.j7b3y.com/posts/2024-05-01-use-on-my-android/</link><pubDate>Wed, 01 May 2024 10:53:20 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-05-01-use-on-my-android/</guid><description>注意事項と前置き # あくまで自分か使用しているものを書いている</description></item><item><title>kvmでIntel ARCをパススルーする。</title><link>https://blog.j7b3y.com/posts/2024-03-29-passthrough-intel-arc-with-kvm/</link><pubDate>Fri, 29 Mar 2024 14:22:41 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-03-29-passthrough-intel-arc-with-kvm/</guid><description>※2024/04/05 稀にVMが少しの間フリーズする。に2つ</description></item><item><title>ubuntu serverをルーター化する2</title><link>https://blog.j7b3y.com/posts/2024-02-03-ubuntu-router-2/</link><pubDate>Sat, 03 Feb 2024 15:33:05 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-02-03-ubuntu-router-2/</guid><description>前置き # ubuntu serverをルーター化するの続き。 今日は日本酒盛</description></item><item><title>ubuntu serverをルーター化する</title><link>https://blog.j7b3y.com/posts/2024-01-30-ubuntu-router-1/</link><pubDate>Tue, 30 Jan 2024 23:35:24 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-01-30-ubuntu-router-1/</guid><description>前置き # 1.Openwrt用のExpressVPNクライアン</description></item><item><title>新しいルートソリューション、APatchのススメ</title><link>https://blog.j7b3y.com/posts/2024-01-12-android-root-apatch/</link><pubDate>Fri, 12 Jan 2024 16:46:11 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-01-12-android-root-apatch/</guid><description>前置き # あんまり詳しくないので細かいことはかけないのですが K</description></item><item><title>HyperVにGPUを割り当てて優勝したかった</title><link>https://blog.j7b3y.com/posts/2024-01-10-hyperv-gpupv/</link><pubDate>Wed, 10 Jan 2024 22:25:03 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-01-10-hyperv-gpupv/</guid><description>構成 # Host:Windows 11 VM:Ubuntu22.04LTS GPU:Intel ARC A770 16GB kernelは6.5.0-14-gene</description></item><item><title>Intel ARCなWindows環境でStable Diffusion WebUI</title><link>https://blog.j7b3y.com/posts/2023-10-06-arc-sd-webui-windows/</link><pubDate>Fri, 06 Oct 2023 14:19:29 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2023-10-06-arc-sd-webui-windows/</guid><description>構成 # CPU:Core i5 12600K GPU:Intel ARC A770 16GB CPU内臓グラフィックは無効にしてありま</description></item><item><title>drm-xe-nextで遊ぶ</title><link>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</link><pubDate>Sat, 01 Jul 2023 23:01:13 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</guid><description>前置き # メイン環境をUbuntuにした際にdrm-xe-ne</description></item><item><title>Zenfone8 Project Blaze</title><link>https://blog.j7b3y.com/posts/2022-09-10-projectblaze-sake/</link><pubDate>Sat, 10 Sep 2022 23:11:01 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2022-09-10-projectblaze-sake/</guid><description>追記 # Zenfone8の使用をやめたのとカスロム全般のモチベ</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.j7b3y.com/posts/2022-09-10-projectblaze-sake/featured.webp"/></item><item><title>PC用アバターをQuest GoodにしてFallback Avatarにする</title><link>https://blog.j7b3y.com/posts/2022-07-06-avatar-quest-optimization/</link><pubDate>Wed, 06 Jul 2022 19:00:39 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2022-07-06-avatar-quest-optimization/</guid><description>前置き # 別のアバターをFallback対応したくなった時用に</description></item><item><title>EMUI11からダウングレードした端末が認識されなくなる問題</title><link>https://blog.j7b3y.com/posts/2022-03-17-emui-usb/</link><pubDate>Thu, 17 Mar 2022 17:51:56 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2022-03-17-emui-usb/</guid><description>前置き # XDAで知り合ったセルビア在住の方(以下セルビア人)</description></item><item><title>ダンスする時のシャオンちゃんを表情豊かにしてみた。</title><link>https://blog.j7b3y.com/posts/2022-02-25-shaon-shapekey/</link><pubDate>Fri, 25 Feb 2022 19:46:05 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2022-02-25-shaon-shapekey/</guid><description>前置き # シャオンちゃんを魔改造している際のテストで某ダンスワ</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.j7b3y.com/posts/2022-02-25-shaon-shapekey/featured.webp"/></item><item><title>Huawei P30 (ELE-L29) のsystem領域を拡張した話 その1</title><link>https://blog.j7b3y.com/posts/2021-10-17-expanding-the-system-partition-of-p30/</link><pubDate>Sun, 17 Oct 2021 17:31:45 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2021-10-17-expanding-the-system-partition-of-p30/</guid><description>前置きと注意 # Huawei P30にlineageOS 18.1をインスト</description></item><item><title>Huawei P30にlineageOS 18.1をインストールした話</title><link>https://blog.j7b3y.com/posts/2021-10-11-installing-lineageos-on-huawei-p30/</link><pubDate>Mon, 11 Oct 2021 10:12:31 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2021-10-11-installing-lineageos-on-huawei-p30/</guid><description>前置き # 再起動する度に画面の明るさ自動調整が勝手にONになる</description></item><item><title>About</title><link>https://blog.j7b3y.com/page/about/</link><pubDate>Thu, 07 Oct 2021 07:17:21 +0900</pubDate><guid>https://blog.j7b3y.com/page/about/</guid><description>HugoとGithub Pagesを使用して公開しています。 自</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>なねさんメモ</title><link>https://blog.j7b3y.com/</link><description>Recent content on なねさんメモ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 なね</copyright><lastBuildDate>Sat, 05 Oct 2024 09:44:35 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/index.xml" rel="self" type="application/rss+xml"/><item><title>CrossOver Mac 24.05をビルドする</title><link>https://blog.j7b3y.com/posts/2024-10-05-crossover-build-mac/</link><pubDate>Sat, 05 Oct 2024 09:44:35 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-10-05-crossover-build-mac/</guid><description>&lt;p>最近なにかとM1 macを使うことが多いがhomebrewバージョンのwine-crossoverが古いので自分でビルドすることにした。&lt;br>
+自分であれこれ模索しながら色々変更した末のビルドなので不要な手順が紛れ込んでいるかもしれないです。&lt;/p></description></item><item><title>[Unofficial] Xiaomi12 Crdroid</title><link>https://blog.j7b3y.com/posts/2024-09-23-unofficial-cupid-crdroid/</link><pubDate>Mon, 23 Sep 2024 17:24:06 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-09-23-unofficial-cupid-crdroid/</guid><description>&lt;h3 class="relative group">Link
+&lt;div id="link" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#link" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>&lt;a href="https://downloads.j7b3y.com/cupid/crdroid/" target="_blank">
+cupid&lt;/a>&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.j7b3y.com/posts/2024-09-23-unofficial-cupid-crdroid/featured.webp"/></item><item><title>[Closed]自前ビルドのProjectBlaze List</title><link>https://blog.j7b3y.com/posts/2024-08-30-projectblaze-ownbuild-list/</link><pubDate>Fri, 30 Aug 2024 13:04:27 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-08-30-projectblaze-ownbuild-list/</guid><description>&lt;h2 class="relative group">お知らせ
+&lt;div id="%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>最適化具合やリポジトリの更新頻度を理由にProjectBlazeを卒業してcrdroidに移行することにしたので3.7-forkを最終ビルドとします。(3.8がEOLなのにキリが悪い)&lt;br>
+Ver.1.3の頃に出会ってから2年間、お世話になりました。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.j7b3y.com/posts/2024-08-30-projectblaze-ownbuild-list/featured.webp"/></item><item><title>ローカル内サービスの公開</title><link>https://blog.j7b3y.com/posts/2024-08-17-re-ubuntu-router-4/</link><pubDate>Sat, 17 Aug 2024 13:55:53 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-08-17-re-ubuntu-router-4/</guid><description>&lt;p>ローカル内で動かしているサービスをcloudflare tunneling経由で公開したい。&lt;br>
+また、ローカルネットワーク上の機器からurlを踏んだときはcloudflare tunnelingを経由しないでアクセスしたかったりnextcloudのためにsslをなんとかしたり等々。&lt;/p></description></item><item><title>VPNの導入</title><link>https://blog.j7b3y.com/posts/2024-08-12-re-ubuntu-router-3/</link><pubDate>Mon, 12 Aug 2024 10:29:12 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-08-12-re-ubuntu-router-3/</guid><description>&lt;p>記事の書き直しの理由の7割がここ。&lt;/p>
+&lt;h2 class="relative group">Tailscaleの導入
+&lt;div id="tailscale%E3%81%AE%E5%B0%8E%E5%85%A5" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tailscale%E3%81%AE%E5%B0%8E%E5%85%A5" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>アカウント登録は各自で済ませてください。(丸投げ)&lt;br>
+インストールコマンド&lt;/p></description></item><item><title>ルーター部分のセットアップ</title><link>https://blog.j7b3y.com/posts/2024-08-12-re-ubuntu-router-2/</link><pubDate>Mon, 12 Aug 2024 09:53:59 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-08-12-re-ubuntu-router-2/</guid><description>&lt;p>作業に取り掛かる前にsshのポートを変えたり鍵認証にしたりしよう。&lt;/p></description></item><item><title>ルーターの概要</title><link>https://blog.j7b3y.com/posts/2024-08-12-re-ubuntu-router-1/</link><pubDate>Mon, 12 Aug 2024 08:49:39 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-08-12-re-ubuntu-router-1/</guid><description>&lt;h2 class="relative group">なんの記事？
+&lt;div id="%E3%81%AA%E3%82%93%E3%81%AE%E8%A8%98%E4%BA%8B" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E3%81%AA%E3%82%93%E3%81%AE%E8%A8%98%E4%BA%8B" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="https://blog.j7b3y.com/posts/2024-01-30-ubuntu-router-1/" >
+ubuntu serverをルーター化するシリーズ&lt;/a>の書き直しと部分的な変更。&lt;/p></description></item><item><title>自分のAndroid環境について語る</title><link>https://blog.j7b3y.com/posts/2024-05-01-use-on-my-android/</link><pubDate>Wed, 01 May 2024 10:53:20 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-05-01-use-on-my-android/</guid><description>&lt;h2 class="relative group">注意事項と前置き
+&lt;div id="%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85%E3%81%A8%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85%E3%81%A8%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>あくまで自分か使用しているものを書いているだけなので&lt;br>
+使用の判断は各個人におまかせします。不利益なことが起こっても責任は取れません。&lt;/p></description></item><item><title>kvmでIntel ARCをパススルーする。</title><link>https://blog.j7b3y.com/posts/2024-03-29-passthrough-intel-arc-with-kvm/</link><pubDate>Fri, 29 Mar 2024 14:22:41 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-03-29-passthrough-intel-arc-with-kvm/</guid><description>&lt;p>※2024/04/05 稀にVMが少しの間フリーズする。に2つの修正を追加。&lt;/p></description></item><item><title>ubuntu serverをルーター化する2</title><link>https://blog.j7b3y.com/posts/2024-02-03-ubuntu-router-2/</link><pubDate>Sat, 03 Feb 2024 15:33:05 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-02-03-ubuntu-router-2/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="https://blog.j7b3y.com/posts/2024-01-30-ubuntu-router-1/" >
+ubuntu serverをルーター化する&lt;/a>の続き。&lt;br>
+今日は日本酒盛ってません。&lt;/p></description></item><item><title>ubuntu serverをルーター化する</title><link>https://blog.j7b3y.com/posts/2024-01-30-ubuntu-router-1/</link><pubDate>Tue, 30 Jan 2024 23:35:24 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-01-30-ubuntu-router-1/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>1.Openwrt用のExpressVPNクライアントがない！&lt;br>
+2.11kでなんちゃってAircoveを爆誕させる&lt;br>
+3.性能限界で速度がそんなに出ない&lt;br>
+4.ubuntuをルーター運用してLinuxクライアントを入れればいいのでは&amp;hellip;？&lt;/p></description></item><item><title>新しいルートソリューション、APatchのススメ</title><link>https://blog.j7b3y.com/posts/2024-01-12-android-root-apatch/</link><pubDate>Fri, 12 Jan 2024 16:46:11 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-01-12-android-root-apatch/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>あんまり詳しくないので細かいことはかけないのですが&lt;/p></description></item><item><title>HyperVにGPUを割り当てて優勝したかった</title><link>https://blog.j7b3y.com/posts/2024-01-10-hyperv-gpupv/</link><pubDate>Wed, 10 Jan 2024 22:25:03 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2024-01-10-hyperv-gpupv/</guid><description>&lt;h2 class="relative group">構成
+&lt;div id="%E6%A7%8B%E6%88%90" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E6%A7%8B%E6%88%90" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Host:Windows 11&lt;br>
+VM:Ubuntu22.04LTS&lt;/p></description></item><item><title>Intel ARCなWindows環境でStable Diffusion WebUI</title><link>https://blog.j7b3y.com/posts/2023-10-06-arc-sd-webui-windows/</link><pubDate>Fri, 06 Oct 2023 14:19:29 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2023-10-06-arc-sd-webui-windows/</guid><description>&lt;h2 class="relative group">構成
+&lt;div id="%E6%A7%8B%E6%88%90" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E6%A7%8B%E6%88%90" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>CPU:Core i5 12600K&lt;/li>
+&lt;li>GPU:Intel ARC A770 16GB&lt;/li>
+&lt;/ul>
+&lt;p>CPU内臓グラフィックは無効にしてあります。(使用するGPUを指定できなかったため)&lt;/p></description></item><item><title>drm-xe-nextで遊ぶ</title><link>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</link><pubDate>Sat, 01 Jul 2023 23:01:13 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>メイン環境をUbuntuにした際にdrm-xe-nextの話を耳にしたので使ってみたい！となって入れてみた&lt;del>メイン環境で遊ぶな&lt;/del>&lt;/p></description></item><item><title>Zenfone8 Project Blaze</title><link>https://blog.j7b3y.com/posts/2022-09-10-projectblaze-sake/</link><pubDate>Sat, 10 Sep 2022 23:11:01 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2022-09-10-projectblaze-sake/</guid><description>&lt;h2 class="relative group">追記
+&lt;div id="%E8%BF%BD%E8%A8%98" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E8%BF%BD%E8%A8%98" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Zenfone8の使用をやめたのとカスロム全般のモチベが低迷してしまったので&lt;br>
+v2.10-DAWNで一旦区切りをつけようと思います。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.j7b3y.com/posts/2022-09-10-projectblaze-sake/featured.webp"/></item><item><title>PC用アバターをQuest GoodにしてFallback Avatarにする</title><link>https://blog.j7b3y.com/posts/2022-07-06-avatar-quest-optimization/</link><pubDate>Wed, 06 Jul 2022 19:00:39 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2022-07-06-avatar-quest-optimization/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>別のアバターをFallback対応したくなった時用に自分向けに書き殴ったメモ書きです。&lt;/p></description></item><item><title>EMUI11からダウングレードした端末が認識されなくなる問題</title><link>https://blog.j7b3y.com/posts/2022-03-17-emui-usb/</link><pubDate>Thu, 17 Mar 2022 17:51:56 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2022-03-17-emui-usb/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>XDAで知り合ったセルビア在住の方(以下セルビア人)とTelegramでお話した時のものを自分用にまとめたものです。&lt;/p></description></item><item><title>ダンスする時のシャオンちゃんを表情豊かにしてみた。</title><link>https://blog.j7b3y.com/posts/2022-02-25-shaon-shapekey/</link><pubDate>Fri, 25 Feb 2022 19:46:05 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2022-02-25-shaon-shapekey/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>シャオンちゃんを魔改造している際のテストで某ダンスワールドで踊ってもらってたのですか&lt;br>
+デフォルトの表情のままなのが勿体ないな～と感じたので頑張りました。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.j7b3y.com/posts/2022-02-25-shaon-shapekey/featured.webp"/></item><item><title>Huawei P30 (ELE-L29) のsystem領域を拡張した話 その1</title><link>https://blog.j7b3y.com/posts/2021-10-17-expanding-the-system-partition-of-p30/</link><pubDate>Sun, 17 Oct 2021 17:31:45 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2021-10-17-expanding-the-system-partition-of-p30/</guid><description>&lt;h2 class="relative group">前置きと注意
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D%E3%81%A8%E6%B3%A8%E6%84%8F" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D%E3%81%A8%E6%B3%A8%E6%84%8F" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;a href="https://blog.j7b3y.com/posts/2021-10-11-installing-lineageos-on-huawei-p30/" >
+Huawei P30にlineageOS 18.1をインストールした話&lt;/a>の続きです。&lt;br>
+P30にGSIなカスタムROMをflashしようとしたところ&lt;br>
+system領域が小さい！と怒られて大敗北しました。&lt;br>
+今回はsystem領域の拡張に成功したのでメモ帳代わりにまとめることにしました。&lt;/p></description></item><item><title>Huawei P30にlineageOS 18.1をインストールした話</title><link>https://blog.j7b3y.com/posts/2021-10-11-installing-lineageos-on-huawei-p30/</link><pubDate>Mon, 11 Oct 2021 10:12:31 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2021-10-11-installing-lineageos-on-huawei-p30/</guid><description>&lt;h2 class="relative group">前置き
+&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>再起動する度に画面の明るさ自動調整が勝手にONになるのが地味に面倒だなと感じたので、別にEMUIを使う理由もないということでカスタムROMを焼こうとなりました。&lt;/p></description></item><item><title>About</title><link>https://blog.j7b3y.com/page/about/</link><pubDate>Thu, 07 Oct 2021 07:17:21 +0900</pubDate><guid>https://blog.j7b3y.com/page/about/</guid><description>&lt;p>HugoとGithub Pagesを使用して公開しています。&lt;br>
+自分が試行錯誤したことをいつでも閲覧できるようにするためのブログです。&lt;/p></description></item></channel></rss>
