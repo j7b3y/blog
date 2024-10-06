@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on なねさんメモ</title><link>https://blog.j7b3y.com/tags/ai/</link><description>Recent content in AI on なねさんメモ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 なね</copyright><lastBuildDate>Fri, 06 Oct 2023 14:19:29 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Intel ARCなWindows環境でStable Diffusion WebUI</title><link>https://blog.j7b3y.com/posts/2023-10-06-arc-sd-webui-windows/</link><pubDate>Fri, 06 Oct 2023 14:19:29 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2023-10-06-arc-sd-webui-windows/</guid><description>&lt;h2 class="relative group">構成
-&lt;div id="%E6%A7%8B%E6%88%90" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E6%A7%8B%E6%88%90" aria-label="アンカー">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;ul>
-&lt;li>CPU:Core i5 12600K&lt;/li>
-&lt;li>GPU:Intel ARC A770 16GB&lt;/li>
-&lt;/ul>
-&lt;p>CPU内臓グラフィックは無効にしてあります。(使用するGPUを指定できなかったため)&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on なねさんメモ</title><link>https://blog.j7b3y.com/tags/ai/</link><description>Recent content in AI on なねさんメモ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 なね</copyright><lastBuildDate>Fri, 06 Oct 2023 14:19:29 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Intel ARCなWindows環境でStable Diffusion WebUI</title><link>https://blog.j7b3y.com/posts/2023-10-06-arc-sd-webui-windows/</link><pubDate>Fri, 06 Oct 2023 14:19:29 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2023-10-06-arc-sd-webui-windows/</guid><description>構成 # CPU:Core i5 12600K GPU:Intel ARC A770 16GB CPU内臓グラフィックは無効にしてありま</description></item></channel></rss>

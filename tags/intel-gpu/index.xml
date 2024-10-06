@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Intel GPU on なねさんメモ</title><link>https://blog.j7b3y.com/tags/intel-gpu/</link><description>Recent content in Intel GPU on なねさんメモ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 なね</copyright><lastBuildDate>Sat, 01 Jul 2023 23:01:13 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/tags/intel-gpu/index.xml" rel="self" type="application/rss+xml"/><item><title>drm-xe-nextで遊ぶ</title><link>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</link><pubDate>Sat, 01 Jul 2023 23:01:13 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</guid><description>&lt;h2 class="relative group">前置き
-&lt;div id="%E5%89%8D%E7%BD%AE%E3%81%8D" class="anchor">&lt;/div>
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-style="text-decoration-line: none !important;" href="#%E5%89%8D%E7%BD%AE%E3%81%8D" aria-label="アンカー">#&lt;/a>
-&lt;/span>
-&lt;/h2>
-&lt;p>メイン環境をUbuntuにした際にdrm-xe-nextの話を耳にしたので使ってみたい！となって入れてみた&lt;del>メイン環境で遊ぶな&lt;/del>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Intel GPU on なねさんメモ</title><link>https://blog.j7b3y.com/tags/intel-gpu/</link><description>Recent content in Intel GPU on なねさんメモ</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2024 なね</copyright><lastBuildDate>Sat, 01 Jul 2023 23:01:13 +0900</lastBuildDate><atom:link href="https://blog.j7b3y.com/tags/intel-gpu/index.xml" rel="self" type="application/rss+xml"/><item><title>drm-xe-nextで遊ぶ</title><link>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</link><pubDate>Sat, 01 Jul 2023 23:01:13 +0900</pubDate><guid>https://blog.j7b3y.com/posts/2023-07-01-xekmd-setup/</guid><description>前置き # メイン環境をUbuntuにした際にdrm-xe-ne</description></item></channel></rss>
